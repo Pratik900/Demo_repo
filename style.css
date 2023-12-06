@@ -2,6 +2,7 @@ body{
     background-image: url("bk.jpg");
     background-position: center;
     background-size:cover;
+    display : flex;
 }
 
 .container{
